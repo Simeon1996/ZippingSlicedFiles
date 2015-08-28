@@ -1,0 +1,9 @@
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\Problem_6.Zipping_Sliced_Files.exe.config
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\Problem 6. Zipping Sliced Files.csprojResolveAssemblyReference.cache
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\Problem_6.Zipping_Sliced_Files.exe
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\Problem_6.Zipping_Sliced_Files.pdb
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\Problem_6.Zipping_Sliced_Files.exe
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\Problem_6.Zipping_Sliced_Files.pdb
+D:\Programming Folder\AllProjects\Problem 6. Zipping Sliced Files\bin\Debug\Problem_6.Zipping_Sliced_Files.exe.config
+D:\Programming Folder\AllProjects\Problem 6. Zipping Sliced Files\obj\Debug\Problem_6.Zipping_Sliced_Files.exe
+D:\Programming Folder\AllProjects\Problem 6. Zipping Sliced Files\obj\Debug\Problem_6.Zipping_Sliced_Files.pdb
